@@ -6,7 +6,7 @@ This repo houses all the device-specific repos for the OnePlus 12.
 
 ## Latest Build Download
 
-[Download](https://sourceforge.net/projects/evolution-x-waffle-unofficial/)
+[Download](https://builds.flandolf.tech)
 
 ## Important Repos
 
