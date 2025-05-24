@@ -1,7 +1,5 @@
 # Evolution X for OnePlus 12 (waffle)
 
-[![Download evolution-x-waffle-unofficial](https://img.shields.io/sourceforge/dt/evolution-x-waffle-unofficial.svg)](https://sourceforge.net/projects/evolution-x-waffle-unofficial/files/latest/download)    
-
 This repo houses all the device-specific repos for the OnePlus 12.
 
 ## Latest Build Download
@@ -10,15 +8,18 @@ This repo houses all the device-specific repos for the OnePlus 12.
 
 ## Important Repos
 
-- [manifest](https://github.com/op12-evolution-x/manifest)
-- [waffle tree](https://github.com/op12-evolution-x/device_oneplus_waffle)
-- [sm8650 common tree](https://github.com/op12-evolution-x/device_oneplus_sm8650-common)
+- [manifest](https://github.com/op12evox/manifest)
+- [waffle tree](https://github.com/op12evox/device_oneplus_waffle)
+- [sm8650 common tree](https://github.com/op12evox/device_oneplus_sm8650-common)
+
+## Notes
+- `frameworks/base` , `packages/apps/Settings` and `device/lineage/sepolicy` require manual patches in order for features such as customisable haptic effects to work.
 
 ## Credits
 
-- YAAP
-- Evolution X
+- [YAAP](https://github.com/yaap)
+- [Evolution X](https://github.com/Evolution-X)
 
 ## From
 
-- @flandolf
+- [@flandolf](https://github.com/flandolf)
